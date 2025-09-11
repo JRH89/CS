@@ -24,7 +24,7 @@
 //	cin >> userAnswer;
 //
 //	if (userAnswer == answer) {
-//		cout << "Correct!" << endl;
+//		cout << "Congratulations, that is correct!" << endl;
 //	}
 //	else {
 //		cout << "Incorrect. The correct answer is " << answer << "." << endl;

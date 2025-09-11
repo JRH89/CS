@@ -15,10 +15,14 @@
 //
 //	double length1, width1, length2, width2, area1, area2;
 //
-//	cout << "Enter the length and width of rectangle 1: ";
-//	cin >> length1 >> width1;
-//	cout << "Enter the length and width of rectangle 2: ";
-//	cin >> length2 >> width2;
+//	cout << "Enter the length of rectangle 1: ";
+//	cin >> length1;
+//	cout << "Enter the width of rectangle 1: ";
+//	cin >> width1;
+//	cout << "Enter the length of rectangle 2: ";
+//	cin >> length2;
+//	cout << "Enter the width of rectangle 2: ";
+//	cin >> width2;
 //
 //	area1 = length1 * width1;
 //	area2 = length2 * width2;
@@ -26,6 +30,7 @@
 //	cout << fixed << setprecision(2);
 //	cout << "Area of rectangle 1: " << area1 << endl;
 //	cout << "Area of rectangle 2: " << area2 << endl;
+//
 //	if (area1 > area2) {
 //		cout << "Rectangle 1 is larger than Rectangle 2." << endl;
 //	}
