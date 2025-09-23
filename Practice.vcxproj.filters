@@ -42,6 +42,24 @@
     <ClCompile Include="09_11_2025.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Assignment_04_01.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="09_16_2025.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="09_18_2025.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment_04_02.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment_04_03.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="09_23_2025.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="snippet.snippet" />
