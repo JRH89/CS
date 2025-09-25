@@ -1,36 +1,36 @@
-#include <iostream>
-#include <string>
-#include <iomanip>
-#include <limits>
-
-using namespace std;
-
-static void greet(string s) {
-	cout << s << endl;
-}
-
-static void pause() {
-	cout << "Press Enter to continue...";
-	cin.ignore(numeric_limits<streamsize>::max(), '\n');
-}
-
-static void goodbye() {
-	cout << "Goodbye!" << endl;
-}
-
-int main() {
-
-	string greeting;
-	cout << "Enter a greeting to be displayed: \n";
-	getline(cin, greeting); // Get the entire line including spaces
-
-	greet(greeting); // Call the greet function
-	pause(); // Pause before exiting
-	goodbye(); // Say goodbye before exiting
-
-	return 0;
-}
-
+//#include <iostream>
+//#include <string>
+//#include <iomanip>
+//#include <limits>
+//
+//using namespace std;
+//
+//static void greet(string s) {
+//	cout << s << endl;
+//}
+//
+//static void pause() {
+//	cout << "Press Enter to continue...";
+//	cin.ignore(numeric_limits<streamsize>::max(), '\n');
+//}
+//
+//static void goodbye() {
+//	cout << "Goodbye!" << endl;
+//}
+//
+//int main() {
+//
+//	string greeting;
+//	cout << "Enter a greeting to be displayed: \n";
+//	getline(cin, greeting); // Get the entire line including spaces
+//
+//	greet(greeting); // Call the greet function
+//	pause(); // Pause before exiting
+//	goodbye(); // Say goodbye before exiting
+//
+//	return 0;
+//}
+//
 
 /*
 Notes:

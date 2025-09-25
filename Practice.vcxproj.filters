@@ -60,6 +60,9 @@
     <ClCompile Include="09_23_2025.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="09_25_2025.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="snippet.snippet" />
