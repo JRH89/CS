@@ -131,6 +131,7 @@
     <ClCompile Include="09_18_2025.cpp" />
     <ClCompile Include="09_23_2025.cpp" />
     <ClCompile Include="09_25_2025.cpp" />
+    <ClCompile Include="09_30_2025.cpp" />
     <ClCompile Include="Assignment_03_01.cpp" />
     <ClCompile Include="Assignment_03_02.cpp" />
     <ClCompile Include="Assignment_03_03.cpp" />

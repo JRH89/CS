@@ -1,24 +1,24 @@
-#include <iostream>
-#include <string>
-#include <iomanip>
-#include <limits>
-
-using namespace std;
-
-// put function prototypes here
-void exampleFunction(); // function prototype
-
-int main() {
-
-	// call the function
-	exampleFunction();
-
-	return 0;
-}
-// put function definitions here
-void exampleFunction() {
-	cout << "This is an example function." << endl;
-}
+//#include <iostream>
+//#include <string>
+//#include <iomanip>
+//#include <limits>
+//
+//using namespace std;
+//
+//// put function prototypes here
+//void exampleFunction(); // function prototype
+//
+//int main() {
+//
+//	// call the function
+//	exampleFunction();
+//
+//	return 0;
+//}
+//// put function definitions here
+//void exampleFunction() {
+//	cout << "This is an example function." << endl;
+//}
 
 
 /*
